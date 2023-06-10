@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_lemonades.mk
+    $(LOCAL_DIR)/banana_lemonades.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_lemonades-user \
-    evolution_lemonades-userdebug \
-    evolution_lemonades-eng
+    banana_lemonades-user \
+    banana_lemonades-userdebug \
+    banana_lemonades-eng
