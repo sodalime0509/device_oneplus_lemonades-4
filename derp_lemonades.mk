@@ -18,6 +18,7 @@ $(call inherit-product, vendor/derp/config/common_full_phone.mk)
 EXTRA_UDFPS_ANIMATIONS := true
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_SUPPORTS_QUICK_TAP := true
+DERP_BUILDTYPE := Unofficial
 
 PRODUCT_NAME := derp_lemonades
 PRODUCT_DEVICE := lemonades
