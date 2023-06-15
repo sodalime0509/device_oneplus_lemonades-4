@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_lemonades.mk
+    $(LOCAL_DIR)/spark_lemonades.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_lemonades-user \
-    derp_lemonades-userdebug \
-    derp_lemonades-eng
+    spark_lemonades-user \
+    spark_lemonades-userdebug \
+    spark_lemonades-eng
